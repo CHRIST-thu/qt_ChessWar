@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/bgm">
+        <file>bgm/attackmusic.wav</file>
+        <file>bgm/curemusic.wav</file>
+        <file>bgm/gamemodemusic.wav</file>
+        <file>bgm/losemusic.wav</file>
+        <file>bgm/widgetmusic.wav</file>
+        <file>bgm/winmusic.wav</file>
+    </qresource>
+</RCC>
